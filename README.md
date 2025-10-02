@@ -1,3 +1,9 @@
+﻿<!-- BADGES:START -->
+[![CI](https://img.shields.io/github/actions/workflow/status/ex1234/makeru/ci.yml?branch=main)](https://github.com/ex1234/makeru/actions)
+[![Release](https://img.shields.io/github/v/release/ex1234/=tag)](https://github.com/ex1234/makeru/releases)
+[![Stars](https://img.shields.io/github/stars/ex1234/makeru)](https://github.com/ex1234/makeru/stargazers)
+[![License](https://img.shields.io/github/license/ex1234/makeru)](https://github.com/ex1234/makeru/blob/main/LICENSE)
+<!-- BADGES:END -->
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
@@ -80,3 +86,6 @@ leo run make_move 2u8 2u8 2u8 "{ r1: { c1: 1u8, c2: 0u8, c3: 0u8 }, r2: { c1: 0u
 | 1 | 0 | 0 |
 | 0 | 2 | 0 |
 | 0 | 0 | 0 |
+
+## Quickstart
+- Clone and run: see CI badges and releases above.
